@@ -1,0 +1,14 @@
+name: "Mark Krysan"
+navbar:
+  title: "Mark Krysan"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Research"
+      href: about.html
+    - text: "Personal"
+      href: personal.html
+    - text: "CV"
+      icon: fa-file
+      href: CV_2018.pdf
+output_dir: "."
