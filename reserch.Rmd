@@ -4,8 +4,13 @@ title: "Reserch"
 
 ## Current Projects
 
-### 2. Statistical Modeling in Drugged Driving Applications
+### Statistical Modeling in Drugged Driving Applications
 
+## Course Imbeded Reserch
+
+### Poisson Overdispersion
+
+[See Paper Here.](OverdispersionPaper.pdf)
 
 ## Papers
 
