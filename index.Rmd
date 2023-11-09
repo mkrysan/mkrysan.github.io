@@ -3,4 +3,4 @@ title: "Introduction"
 ---
 
 
-<img style="float: right; width:30%; height:30%;" src="photo.png"> Hello! Welcome to my website. My name is Mark Krysan and I am currently a fourth year Mathematics and Philosophy at Grinnell College. I'm am planning to persue a PhD in Statistics or Biostatistics in the coming years. 
+<img style="float: right; width:30%; height:30%;" src="photo.png"> Hello! Welcome to my website. My name is Mark Krysan and I am currently a fourth year Mathematics and Philosophy Major at Grinnell College. I am in the process of applying to PhD programs in Statistics and Biostatistics. My research interests are in Spatial-temporal Modeling as well as Generalized Linear Models. 
