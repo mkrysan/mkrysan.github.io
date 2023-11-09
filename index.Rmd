@@ -2,12 +2,18 @@
 title: "Introduction"
 ---
 
+<style type="text/css">
+  body{
+  font-size: 13pt;
+}
+</style>
+
 
 
 
 <img style="float: right; width:30%; height:30%;" src="photo.png"> Hello! Welcome to my website. My name is Mark Krysan and I am currently a fourth year Mathematics and Philosophy Major at Grinnell College. I am in the process of applying to PhD programs in Statistics and Biostatistics. My research interests are in Spatial-temporal Modeling as well as Generalized Linear Models.
 
-#### Contact
+### Contact
 Email:  [krysanma@grinnell.edu](mailto:krysanma@grinnell.edu)
 
 GitHub: [github.com/mkrysan](https://github.com/mkrysan)
