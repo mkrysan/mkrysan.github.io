@@ -5,7 +5,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Research"
-      href: reserch.html
+      href: research.html
     - text: "Personal"
       href: personal.html
     - text: "CV"
