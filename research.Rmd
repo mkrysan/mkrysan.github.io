@@ -16,6 +16,8 @@ This past fall, we pivoted to a new, longitudinal data set from the Driving Safe
 
 You can see the poster we presented [here.](MAPPoster.pdf)
 
+I will be posting the code for both portions of my research in the coming weeks on my GitHub. 
+
 
 ## Course Imbeded Reserch
 
