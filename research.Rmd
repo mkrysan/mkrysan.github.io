@@ -1,0 +1,33 @@
+---
+title: "Research"
+---
+
+## Current Projects
+
+### Statistical Modeling in Drugged Driving Applications
+  This research project is a MAP (Mentored Advanced Project) at Grinnell College, advised by Jonathan Wells and Ryan Miller. This project involved investigating a third-order autoregressive time series model with a signed error term used in driving simulator applications. Our objective was to use this model to analyze the driving performance of individuals who had used cannabis. In the paper describing the AR model, it was noted that the estimation technique had a noticeable but not insurmountable mean percent bias (approximately 5%). 
+  
+  Through our investigation, I discovered that the error term for the projection component of the model was mis-specified, leading to an inaccurate generative model. Furthermore, I identified significant correlation in the residuals of the signed error component of the model.
+To address these issues, I introduced an additional predictor to the signed error component to account for the correlated errors. Additionally, to assess the impact of this new term, I conducted a simulation study using both the original data generation method and a new method I devised, utilizing the magnitude of errors from actual drives, not simulated ones. With the inclusion of the additional predictor, I was able to reduce the mean percent bias of a parameter of interest by approximately 1-2% in the simulation with the new generative model.
+
+You can find our manuscript in progress [here.](KrysanMAPPaper.pdf)
+
+This past fall, we pivoted to a new, longitudinal data set from the Driving Safety Research Center at the University of Iowa. We used a mixed effects model to determine the change in driving performance before and after cannabis consumption. We used the AR time series model to estimate driving performance. We presented our findings at the the Midstate Consortium for Math and Science at the University of Chicago on November 3, 2023. 
+
+You can see the poster we presented [here.](MAPPoster.pdf)
+
+
+## Course Imbeded Reserch
+
+### Poisson Overdispersion
+In my Probability and Statistics 2 class, our final project was a research paper of our choosing, which had to incorporate data of some type. I chose to investigate Poisson Regression and how to over come Overdispersion. I looked at the qusi-Poisson and Negative Binomial Regression and compared the three different regression types by simulating equi- and overdispersed data. You can see the paper [here.](OverdispersionPaper.pdf)
+
+## Presentations
+
+MASSS (Mathematics and Statistics Student Seminar), Grinnell, Iowa, September 2023. Mark Krysan, Max Worth. “The Impact of Cannabis on Driving: Modeling Driving Time Series Data” (Lecture). 
+
+Midstates Consortium for Science and Math, Chicago, Illinois, November 2023. Mark Krysan, Jonathan Wells, Ryan Miller. “Analysis of Driving Performance of Drivers Dosed by Cannabis using a Third Order Autoregressive Time Series Model” (Poster).  
+
+
+
+
