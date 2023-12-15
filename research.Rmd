@@ -24,6 +24,10 @@ I will be posting the code for both portions of my research in the coming weeks 
 ### Poisson Overdispersion
 In my Probability and Statistics 2 class, our final project was a research paper of our choosing, which had to incorporate data of some type. I chose to investigate Poisson Regression and how to over come Overdispersion. I looked at the qusi-Poisson and Negative Binomial Regression and compared the three different regression types by simulating equi- and overdispersed data. You can see the paper [here.](OverdispersionPaper.pdf)
 
+### Covid-19 Impact on Highschool Education in Iowa
+
+
+
 ## Presentations
 
 MASSS (Mathematics and Statistics Student Seminar), Grinnell, Iowa, September 2023. Mark Krysan, Max Worth. “The Impact of Cannabis on Driving: Modeling Driving Time Series Data” (Lecture). 
