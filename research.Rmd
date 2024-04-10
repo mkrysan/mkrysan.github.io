@@ -19,7 +19,7 @@ You can see the poster we presented [here.](MAPPoster.pdf)
 I will be posting the code for both portions of my research in the coming weeks on my GitHub. 
 
 
-## Course Embedded Reserch
+## Course Embedded Research
 
 ### Poisson Overdispersion
 In my Probability and Statistics 2 class, our final project was a research paper of our choosing, which had to incorporate data of some type. I chose to investigate Poisson Regression and how to over come Overdispersion. I looked at the qusi-Poisson and Negative Binomial Regression and compared the three different regression types by simulating equi- and overdispersed data. You can see the paper [here.](OverdispersionPaper.pdf)
