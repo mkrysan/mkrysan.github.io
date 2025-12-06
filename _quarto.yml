@@ -1,0 +1,15 @@
+project:
+  type: website
+
+website:
+  title: "Mark Krysan"
+  navbar:
+    left:
+      - href: index.html
+        text: "Home"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
