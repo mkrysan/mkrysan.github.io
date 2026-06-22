@@ -1,0 +1,20 @@
+---
+title: "Introduction"
+---
+
+<style type="text/css">
+  body{
+  font-size: 13pt;
+}
+</style>
+
+
+
+
+<img style="float: right; width:30%; height:30%; padding-left: 2em" src="photo.png"> 
+Hello! Welcome to my website. My name is Mark Krysan and I am currently a PhD student in the Biostatistics Department in the University of Iowa College of Public Health. 
+### Contact
+Email:  [krysanma@grinnell.edu](mailto:mkrysan@uiowa.edu)
+
+GitHub: [github.com/mkrysan](https://github.com/mkrysan)
+
